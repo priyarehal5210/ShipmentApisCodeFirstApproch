@@ -1,33 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CloneProject\\shipmentef6demo\\ShipingApisWithCodeFirstApprochEF6\\ShipingApisWithCodeFirstApprochEF6.csproj": {}
+    "D:\\Project\\ShipingApisWithCodeFirstApprochEF6\\ShipingApisWithCodeFirstApprochEF6.csproj": {}
   },
   "projects": {
-    "D:\\CloneProject\\shipmentef6demo\\ShipingApisWithCodeFirstApprochEF6\\ShipingApisWithCodeFirstApprochEF6.csproj": {
+    "D:\\Project\\ShipingApisWithCodeFirstApprochEF6\\ShipingApisWithCodeFirstApprochEF6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CloneProject\\shipmentef6demo\\ShipingApisWithCodeFirstApprochEF6\\ShipingApisWithCodeFirstApprochEF6.csproj",
+        "projectUniqueName": "D:\\Project\\ShipingApisWithCodeFirstApprochEF6\\ShipingApisWithCodeFirstApprochEF6.csproj",
         "projectName": "ShipingApisWithCodeFirstApprochEF6",
-        "projectPath": "D:\\CloneProject\\shipmentef6demo\\ShipingApisWithCodeFirstApprochEF6\\ShipingApisWithCodeFirstApprochEF6.csproj",
-        "packagesPath": "C:\\Users\\Priya\\.nuget\\packages\\",
-        "outputPath": "D:\\CloneProject\\shipmentef6demo\\ShipingApisWithCodeFirstApprochEF6\\obj\\",
+        "projectPath": "D:\\Project\\ShipingApisWithCodeFirstApprochEF6\\ShipingApisWithCodeFirstApprochEF6.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\ShipingApisWithCodeFirstApprochEF6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Priya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -75,7 +74,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -87,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
